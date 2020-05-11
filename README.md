@@ -1,4 +1,4 @@
-## whatsappui
+## WhatsAppUI
 
 - Whatsapp UI Implementation.
 - Used Faker to print random names.
