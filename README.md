@@ -7,5 +7,11 @@
  - intl (For date parsing)
  - random_words (For random chat messages)
  - faker: (For random usernames)
+ 
+ 
+## Widgets Used
+- TabBar
+- TabBarView
+- ListView.builder
 
 
