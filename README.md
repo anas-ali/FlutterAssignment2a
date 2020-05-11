@@ -15,5 +15,5 @@
 - ListView.builder
 
 ## Screens
-![Chat Screen](https://github.com/anas-ali/WhatsAppUI/blob/master/Screenshot_1589234148.png)
+<img src="https://github.com/anas-ali/WhatsAppUI/blob/master/Screenshot_1589234148.png" height="120" width="360">
 ![Call Screen](https://github.com/anas-ali/WhatsAppUI/blob/master/Screenshot_1589234152.png)
