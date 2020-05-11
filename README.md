@@ -1,7 +1,11 @@
 ## WhatsAppUI
 
 - Whatsapp UI Implementation.
-- Used Faker to print random names.
-- Used intl dart package includes date formating.
+
+## Dependencies Used
+
+ # intl (For date parsing)
+ # random_words (For random chat messages)
+ # faker: (For random usernames)
 
 
