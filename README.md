@@ -2,7 +2,7 @@
 
 - Whatsapp UI Implementation.
 
-# Dependencies Used
+## Dependencies Used
 
  - intl (For date parsing)
  - random_words (For random chat messages)
