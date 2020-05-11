@@ -13,8 +13,3 @@
 - TabBar
 - TabBarView
 - ListView.builder
-
-
-
-## Screens
-![alt text](https://ibb.co/t851n7M)
