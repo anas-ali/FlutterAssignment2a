@@ -2,10 +2,10 @@
 
 - Whatsapp UI Implementation.
 
-## Dependencies Used
+# Dependencies Used
 
- # intl (For date parsing)
- # random_words (For random chat messages)
- # faker: (For random usernames)
+ - intl (For date parsing)
+ - random_words (For random chat messages)
+ - faker: (For random usernames)
 
 
